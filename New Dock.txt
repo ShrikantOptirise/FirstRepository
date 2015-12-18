@@ -1,1 +1,2 @@
 This is new dock..
+This is from Git dock..
